@@ -3,6 +3,7 @@ Learn:
 *learn go basic
 *learn go framework
 *learn expressJs
+-create rest simple API with expressJS
 -learn Machine Learning
 -phyton
 *learn pip
