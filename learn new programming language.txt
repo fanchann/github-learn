@@ -2,5 +2,6 @@ Learn:
 -go
 *learn go basic
 *learn go framework
--learn Machine Learning
+*learn Angular
+-learn Laravel
 -phyton
